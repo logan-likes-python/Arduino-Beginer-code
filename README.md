@@ -9,3 +9,5 @@ For This Project you will need
  
 The positive of the led (anode) goes to Pin 13 on your Arduino.
 The negative of the led(cathode) goes to your 220k resistor and from the resistor it goes to gnd on your Arduino.
+
+So I can keep doing these fun projects it would be greatly appreciated if you donated to me at www.paypal.me/loganskinner5991/
